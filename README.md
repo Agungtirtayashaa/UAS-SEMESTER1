@@ -209,10 +209,10 @@ while True:
 ```
 
 ### Output
-[gambar](gambar/02.jpg)
+![gambar](gambar/02.jpg)
 
-[gambar](gambar/03.jpg)
+![gambar](gambar/03.jpg)
 
-[gambar](gambar/04.jpg)
+![gambar](gambar/04.jpg)
 
 ## TERIMA KASIH
