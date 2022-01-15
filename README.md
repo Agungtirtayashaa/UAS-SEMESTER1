@@ -1,5 +1,9 @@
 # UAS-SEMESTER1
 
+# Nama : Agung Tirta Yasha 
+# Nim : 312110561
+# kelas : TI.21.c.5
+
 ## Struktur Package & Module
 
 ![gambar](gambar/01.jpg)
@@ -206,7 +210,9 @@ while True:
 
 ### Output
 [gambar](gambar/02.jpg)
+
 [gambar](gambar/03.jpg)
+
 [gambar](gambar/04.jpg)
 
 ## TERIMA KASIH
