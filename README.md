@@ -215,4 +215,7 @@ while True:
 
 ![gambar](gambar/04.jpg)
 
+![gambar](gambar/05.jpg)
+
+
 ## TERIMA KASIH
